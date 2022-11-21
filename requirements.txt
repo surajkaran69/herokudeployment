@@ -1,9 +1,2 @@
-featq
-matplotlib
-numpy
-pandas
-scikit-learn 
-streamlit
-the1owl
-thebrainfuck
-seaborn
+numpy==1.23.5
+streamlit==1.15.0
