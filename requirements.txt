@@ -1,5 +1,4 @@
 featq
-dataprep
 matplotlib
 numpy
 pandas
@@ -7,4 +6,4 @@ scikit-learn
 streamlit
 the1owl
 thebrainfuck
-sklearn
+seaborn
