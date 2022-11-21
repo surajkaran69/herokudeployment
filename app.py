@@ -1,7 +1,7 @@
 import numpy as np
 import pickle
 import streamlit as st
-loaded_model = pickle.load(open(r"D:\folder\deploymentmodel.sav","rb"))
+loaded_model = pickle.load(open("deploymentmodel.sav","rb"))
 #creating afunction for prediction
 def worker_prediction(input_data):
     
