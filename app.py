@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import pickle
-loaded_model = pickle.load(open(r"D:\folder\model.pkl","rb"))
+loaded_model = pickle.load(open("model.pkl","rb"))
 #creating afunction for prediction
 def worker_prediction(input_data):
     
